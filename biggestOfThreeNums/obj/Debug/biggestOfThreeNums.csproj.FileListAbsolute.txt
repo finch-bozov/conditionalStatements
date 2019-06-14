@@ -1,0 +1,6 @@
+C:\Users\Finch\source\repos\conditionalStatements\biggestOfThreeNums\bin\Debug\biggestOfThreeNums.exe.config
+C:\Users\Finch\source\repos\conditionalStatements\biggestOfThreeNums\bin\Debug\biggestOfThreeNums.exe
+C:\Users\Finch\source\repos\conditionalStatements\biggestOfThreeNums\bin\Debug\biggestOfThreeNums.pdb
+C:\Users\Finch\source\repos\conditionalStatements\biggestOfThreeNums\obj\Debug\biggestOfThreeNums.csproj.CoreCompileInputs.cache
+C:\Users\Finch\source\repos\conditionalStatements\biggestOfThreeNums\obj\Debug\biggestOfThreeNums.exe
+C:\Users\Finch\source\repos\conditionalStatements\biggestOfThreeNums\obj\Debug\biggestOfThreeNums.pdb

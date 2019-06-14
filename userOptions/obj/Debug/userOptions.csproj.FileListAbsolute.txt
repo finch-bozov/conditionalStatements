@@ -1,0 +1,6 @@
+C:\Users\Finch\source\repos\conditionalStatements\userOptions\bin\Debug\userOptions.exe.config
+C:\Users\Finch\source\repos\conditionalStatements\userOptions\bin\Debug\userOptions.exe
+C:\Users\Finch\source\repos\conditionalStatements\userOptions\bin\Debug\userOptions.pdb
+C:\Users\Finch\source\repos\conditionalStatements\userOptions\obj\Debug\userOptions.csproj.CoreCompileInputs.cache
+C:\Users\Finch\source\repos\conditionalStatements\userOptions\obj\Debug\userOptions.exe
+C:\Users\Finch\source\repos\conditionalStatements\userOptions\obj\Debug\userOptions.pdb

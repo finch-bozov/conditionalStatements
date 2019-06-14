@@ -1,0 +1,7 @@
+C:\Users\Finch\source\repos\conditionalStatements\exchangeIfGreater\bin\Debug\exchangeIfGreater.exe.config
+C:\Users\Finch\source\repos\conditionalStatements\exchangeIfGreater\bin\Debug\exchangeIfGreater.exe
+C:\Users\Finch\source\repos\conditionalStatements\exchangeIfGreater\bin\Debug\exchangeIfGreater.pdb
+C:\Users\Finch\source\repos\conditionalStatements\exchangeIfGreater\obj\Debug\01.exchangeIfGreater.csprojAssemblyReference.cache
+C:\Users\Finch\source\repos\conditionalStatements\exchangeIfGreater\obj\Debug\01.exchangeIfGreater.csproj.CoreCompileInputs.cache
+C:\Users\Finch\source\repos\conditionalStatements\exchangeIfGreater\obj\Debug\exchangeIfGreater.exe
+C:\Users\Finch\source\repos\conditionalStatements\exchangeIfGreater\obj\Debug\exchangeIfGreater.pdb

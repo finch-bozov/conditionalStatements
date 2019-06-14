@@ -1,0 +1,6 @@
+C:\Users\Finch\source\repos\conditionalStatements\biggestOfFiveNumbers\bin\Debug\biggestOfFiveNumbers.exe.config
+C:\Users\Finch\source\repos\conditionalStatements\biggestOfFiveNumbers\bin\Debug\biggestOfFiveNumbers.exe
+C:\Users\Finch\source\repos\conditionalStatements\biggestOfFiveNumbers\bin\Debug\biggestOfFiveNumbers.pdb
+C:\Users\Finch\source\repos\conditionalStatements\biggestOfFiveNumbers\obj\Debug\biggestOfFiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Finch\source\repos\conditionalStatements\biggestOfFiveNumbers\obj\Debug\biggestOfFiveNumbers.exe
+C:\Users\Finch\source\repos\conditionalStatements\biggestOfFiveNumbers\obj\Debug\biggestOfFiveNumbers.pdb
